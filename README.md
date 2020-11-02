@@ -11,7 +11,8 @@ This codeplug was designed to accomodate the following:
 5. for local access to CBridge 2.0 talkgroups
 6. APRS via National APRS and ISS
    - Note 878 can only transmit APRS on one analog frequence, so the codeplug will need to be tweaked slightly depending on your needs.  
-7. NWS/FRS/GMRS
+7. ISS analog voice link 145.99/437.8(doppler)
+8. NWS/FRS/GMRS
 
 ## Contents
 
